@@ -4,10 +4,6 @@
 <img src="git.gif" width="400" height="400">
 </p>
 
-### My Portfolio 👩‍
-<p align="center"><a href="https://snehithabarukula.my.canva.site"><img alt="My portfolio" width="10%" style="padding:5px"
-<img src="https://github.com/snehithabarukula/snehithabarukula/blob/main/icons8-circled-user-female-skin-type-5-64.png"> </a></p>
-
 ### My Portfolio 👩‍💻
 - 👩‍💻 Currently pursuing Masters in CS at Northeastern University
 - 📚 Worked as an application engineer at IDFC FIRST BANK 
