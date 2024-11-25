@@ -15,12 +15,13 @@
 ### 🧰 Languages and Tools
 I specialize in software development and AI-driven solutions, with expertise in:
 
-Programming Languages: Python, Java, C, C++, SQL, TypeScript
-Data Science and Machine Learning: TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-learn, NLP, Computer Vision
-Web Development: React, AngularJS, NodeJS, HTML, CSS, JavaScript
-Cloud and DevOps: AWS Glue, AWS S3, Jenkins, Kubernetes, Docker
-Database Management: SQL, MongoDB
-Software Development: Object-Oriented Programming, Data Structures, Algorithms
+- Programming Languages: Python, Java, C, C++, SQL, TypeScript
+- Data Science and Machine Learning: TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-learn, NLP, Computer Vision
+- Web Development: React, AngularJS, NodeJS, HTML, CSS, JavaScript
+- Cloud and DevOps: AWS Glue, AWS S3, Jenkins, Kubernetes, Docker
+- Database Management: SQL, MongoDB
+- Software Development: Object-Oriented Programming, Data Structures, Algorithms
+
 I thrive in AGILE environments, focusing on building innovative, secure, and scalable solutions. My strengths lie in problem-solving, collaboration, and a disciplined approach to project management and compliance.
 
 My strengths lie in problem-solving, creative thinking, and collaboration, enabling me to excel in both individual and team settings. I am deeply passionate about leveraging technology to solve real-world challenges, whether through building AI-driven patient risk prediction systems, smart city waste management solutions, or improving software reliability through automation and optimization.
