@@ -13,22 +13,22 @@
 - ⚡ Fun fact: I love to paint and I enjoy playing badminton 
 
 ### 🧰 Languages and Tools
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+I specialize in software development and AI-driven solutions, with expertise in:
+
+Programming Languages: Python, Java, C, C++, SQL, TypeScript
+Data Science and Machine Learning: TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-learn, NLP, Computer Vision
+Web Development: React, AngularJS, NodeJS, HTML, CSS, JavaScript
+Cloud and DevOps: AWS Glue, AWS S3, Jenkins, Kubernetes, Docker
+Database Management: SQL, MongoDB
+Software Development: Object-Oriented Programming, Data Structures, Algorithms
+I thrive in AGILE environments, focusing on building innovative, secure, and scalable solutions. My strengths lie in problem-solving, collaboration, and a disciplined approach to project management and compliance.
+
+My strengths lie in problem-solving, creative thinking, and collaboration, enabling me to excel in both individual and team settings. I am deeply passionate about leveraging technology to solve real-world challenges, whether through building AI-driven patient risk prediction systems, smart city waste management solutions, or improving software reliability through automation and optimization.
+
+Let’s connect to discuss how we can collaborate on impactful, cutting-edge technology projects!
   
 ### Contact Me On
 <p align="center">
-	<a href="https://github.com/snehithabarukula"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/snehithabarukula/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/pinot_palette/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-			      
+	<a href="https://www.linkedin.com/in/snehithabarukula/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>			      
 </p>
 
